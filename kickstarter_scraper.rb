@@ -1,5 +1,5 @@
-require "nokogiri"
-require "open-uri"
+require 'nokogiri'
+require 'open-uri'
 
 def create_project_hash
   # write your code here
